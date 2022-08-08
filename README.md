@@ -31,5 +31,5 @@ He offers a solid working knowledge of the language and shows how to retrieve an
 ### Understanding numeric types
 ### Using aggregate functions and transactions
 ### Automating data with triggers
-###Creating views
-###Using CRUD functions
+### Creating views
+### Using CRUD functions
