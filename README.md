@@ -26,10 +26,10 @@ He offers a solid working knowledge of the language and shows how to retrieve an
 ### Creating new tables
 ### Inserting and updating data
 ### Sorting and filtering
-###Accessing related tables with JOIN
-###Working with strings
-###Understanding numeric types
-###Using aggregate functions and transactions
-###Automating data with triggers
+### Accessing related tables with JOIN
+### Working with strings
+### Understanding numeric types
+### Using aggregate functions and transactions
+### Automating data with triggers
 ###Creating views
 ###Using CRUD functions
